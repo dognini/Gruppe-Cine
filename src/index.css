@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    color: #fff;
+    background-color: #000;
+}
+
+a {
+    color: #f7d354;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f7d354;
+}
+
+input {
+    padding: 5px;
+}
+
+input:focus {
+    outline: none;
+}
+
+ul,
+li {
+    list-style: none;
+}

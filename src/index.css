@@ -11,13 +11,13 @@ body {
 }
 
 a {
-    color: #f7d354;
+    color: #222dbd;
     transition: 0.5s;
     text-decoration: none;
 }
 
 a:hover {
-    color: #f7d354;
+    color: #088afc;
 }
 
 input {

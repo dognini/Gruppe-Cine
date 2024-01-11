@@ -1,0 +1,58 @@
+.movie_page {
+    display: flex;
+    flex-direction: column;
+    margin: 2em auto;
+    max-width: 600px;
+    color: #fff;
+}
+
+.movie_page svg {
+    font-size: 1.5em;
+    color: #222dbd;
+}
+
+.movie_page .movie_card {
+    text-align: center;
+}
+
+.movie_page .movie_card img,
+.movie_page .movie_card h2,
+.movie_page .movie_card p {
+    margin-bottom: 1em;
+}
+
+.movie_page .movie_card h2 {
+    font-size: 2em;
+}
+
+.movie_page .movie_card p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .4em;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 1.3em;
+    margin-bottom: 2em;
+}
+
+.info {
+    margin-bottom: 1.5em;
+}
+
+.info h3 {
+    display: flex;
+    align-items: center;
+    gap: .5em;
+    margin-bottom: 1em;
+}
+
+.description {
+    padding-bottom: 10em;
+}
+
+.description {
+    line-height: 1.4em;
+}

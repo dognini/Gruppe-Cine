@@ -32,3 +32,15 @@ ul,
 li {
     list-style: none;
 }
+
+::-webkit-scrollbar {
+    width: 5px; /* Largura da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #222dbd; /* Cor do botão de rolagem */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #000; /* Cor da trilha da barra de rolagem */
+}
